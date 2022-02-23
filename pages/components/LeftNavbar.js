@@ -30,7 +30,7 @@ function LeftNavbar(){
                         <path d="M6.3634 8.81891V15.3152" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         <path d="M11.0294 5.70985V15.3146" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         <path d="M15.6202 12.2516V15.315" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path fillRule="evenodd" clipRule="evenodd" d="M15.6774 1.1138H6.30598C3.03932 1.1138 0.991699 3.30324 0.991699 6.4027V14.764C0.991699 17.8635 3.02979 20.0529 6.30598 20.0529H15.6774C18.9536 20.0529 20.9917 17.8635 20.9917 14.764V6.4027C20.9917 3.30324 18.9536 1.1138 15.6774 1.1138Z" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path fillRule="evenodd" clipRule="evenodd" d="M15.6774 1.1138H6.30598C3.03932 1.1138 0.991699 3.30324 0.991699 6.4027V14.764C0.991699 17.8635 3.02979 20.0529 6.30598 20.0529H15.6774C18.9536 20.0529 20.9917 17.8635 20.9917 14.764V6.4027C20.9917 3.30324 18.9536 1.1138 15.6774 1.1138Z" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>
                         <a href="#">     Section  1</a>
                         
@@ -45,9 +45,9 @@ function LeftNavbar(){
                         <a href="#">     Section  2</a></li>
                     <li>
                     <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M5.4585 13.5656L8.45163 9.8818L11.8658 12.4215L14.7949 8.84166" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <ellipse cx="18.2088" cy="3.54493" rx="1.9222" ry="1.82024" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M13.1382 2.52185H5.87042C2.85898 2.52185 0.991699 4.54144 0.991699 7.39314V15.0468C0.991699 17.8985 2.82236 19.9094 5.87042 19.9094H14.4745C17.486 19.9094 19.3533 17.8985 19.3533 15.0468V8.38127" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M5.4585 13.5656L8.45163 9.8818L11.8658 12.4215L14.7949 8.84166" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <ellipse cx="18.2088" cy="3.54493" rx="1.9222" ry="1.82024" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M13.1382 2.52185H5.87042C2.85898 2.52185 0.991699 4.54144 0.991699 7.39314V15.0468C0.991699 17.8985 2.82236 19.9094 5.87042 19.9094H14.4745C17.486 19.9094 19.3533 17.8985 19.3533 15.0468V8.38127" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>    
                         
                         <a href="#">  Section  3</a></li>
@@ -62,37 +62,37 @@ function LeftNavbar(){
                         <a href="#">  Section  4</a></li>
                     <li>
                     <svg width="21" height="19" viewBox="0 0 21 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M13.3946 7.73942C13.3946 8.60598 12.3324 9.3797 10.7147 9.8594C9.74566 10.118 8.74689 10.2636 7.74059 10.2927C7.55575 10.3081 7.36983 10.3081 7.18499 10.2927C3.76969 10.2927 0.991699 9.13211 0.991699 7.70847C0.991699 6.28484 3.76969 5.12427 7.18499 5.12427H7.74059C8.01839 5.12427 8.27985 5.12427 8.5413 5.12427C10.0011 5.24113 11.4008 5.72749 12.5939 6.53243C12.8123 6.66607 12.9972 6.84337 13.1355 7.05189C13.2739 7.26041 13.3623 7.49508 13.3946 7.73942V7.73942Z" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M13.3948 7.73764V11.436C13.3948 12.38 12.2019 13.1846 10.4044 13.6334C9.33706 13.8948 8.2386 14.0248 7.13616 14.0202C4.30914 14.0202 1.92334 13.231 1.18799 12.1633" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M13.3946 11.4367V15.2898C13.3946 16.7289 10.6166 17.874 7.18499 17.874C3.75335 17.874 0.991699 16.7289 0.991699 15.2898" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M8.10023 4.82975C7.88122 4.58721 7.75461 4.28203 7.74072 3.96319C7.74072 2.53954 10.5187 1.37897 13.9504 1.37897C17.382 1.37897 20.1436 2.53954 20.1436 3.96319C20.1436 5.38683 17.3656 6.53193 13.9504 6.53193C13.4986 6.55548 13.0458 6.55548 12.594 6.53193" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M13.395 14.0831H13.9506C17.3659 14.0831 20.1439 12.938 20.1439 11.5143" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M13.395 10.2305H13.9506C17.3659 10.2305 20.1439 9.06996 20.1439 7.6618" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M20.1431 11.5142V7.66111V3.96274" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M0.991699 15.2891V7.73764" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M13.3946 7.73942C13.3946 8.60598 12.3324 9.3797 10.7147 9.8594C9.74566 10.118 8.74689 10.2636 7.74059 10.2927C7.55575 10.3081 7.36983 10.3081 7.18499 10.2927C3.76969 10.2927 0.991699 9.13211 0.991699 7.70847C0.991699 6.28484 3.76969 5.12427 7.18499 5.12427H7.74059C8.01839 5.12427 8.27985 5.12427 8.5413 5.12427C10.0011 5.24113 11.4008 5.72749 12.5939 6.53243C12.8123 6.66607 12.9972 6.84337 13.1355 7.05189C13.2739 7.26041 13.3623 7.49508 13.3946 7.73942V7.73942Z" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M13.3948 7.73764V11.436C13.3948 12.38 12.2019 13.1846 10.4044 13.6334C9.33706 13.8948 8.2386 14.0248 7.13616 14.0202C4.30914 14.0202 1.92334 13.231 1.18799 12.1633" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M13.3946 11.4367V15.2898C13.3946 16.7289 10.6166 17.874 7.18499 17.874C3.75335 17.874 0.991699 16.7289 0.991699 15.2898" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M8.10023 4.82975C7.88122 4.58721 7.75461 4.28203 7.74072 3.96319C7.74072 2.53954 10.5187 1.37897 13.9504 1.37897C17.382 1.37897 20.1436 2.53954 20.1436 3.96319C20.1436 5.38683 17.3656 6.53193 13.9504 6.53193C13.4986 6.55548 13.0458 6.55548 12.594 6.53193" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M13.395 14.0831H13.9506C17.3659 14.0831 20.1439 12.938 20.1439 11.5143" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M13.395 10.2305H13.9506C17.3659 10.2305 20.1439 9.06996 20.1439 7.6618" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M20.1431 11.5142V7.66111V3.96274" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M0.991699 15.2891V7.73764" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>
                         
                         <a href="#">  Section  5</a></li>
                     <li>
                     <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M8.6717 11.0096H16.3517C16.3517 15.0057 12.8817 18.2917 8.6717 18.2917C4.4517 18.2917 0.991699 15.0057 0.991699 11.0096C0.991699 7.01342 4.4617 3.72748 8.6717 3.72748V11.0096Z" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M11.812 8.05591V0.773804C13.852 0.773804 15.802 1.54084 17.242 2.90446C18.682 4.26808 19.492 6.12412 19.492 8.04644H11.812V8.05591Z" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M8.6717 11.0096H16.3517C16.3517 15.0057 12.8817 18.2917 8.6717 18.2917C4.4517 18.2917 0.991699 15.0057 0.991699 11.0096C0.991699 7.01342 4.4617 3.72748 8.6717 3.72748V11.0096Z" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M11.812 8.05591V0.773804C13.852 0.773804 15.802 1.54084 17.242 2.90446C18.682 4.26808 19.492 6.12412 19.492 8.04644H11.812V8.05591Z" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>
                         <a href="#">  Section  6</a></li>
                     <li>
                     <svg width="21" height="15" viewBox="0 0 21 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M15.3794 13.7657L19.4894 13.7657L19.4894 8.14072L15.3794 8.14072L15.3794 13.7657Z" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M8.18447 13.7639L12.1945 13.7639L12.1945 4.62567L8.18447 4.62567L8.18447 13.7639Z" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M0.991699 13.762L5.1017 13.762L5.1017 1.1106L0.991699 1.1106L0.991699 13.762Z" stroke="#808191" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M15.3794 13.7657L19.4894 13.7657L19.4894 8.14072L15.3794 8.14072L15.3794 13.7657Z" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M8.18447 13.7639L12.1945 13.7639L12.1945 4.62567L8.18447 4.62567L8.18447 13.7639Z" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M0.991699 13.762L5.1017 13.762L5.1017 1.1106L0.991699 1.1106L0.991699 13.762Z" stroke="#808191" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>
                         <a href="#">  Section  7</a></li>
                     <li>
                     <svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M3.3588 10.8199C4.50756 10.8199 5.4388 10.0051 5.4388 9.00001C5.4388 7.99489 4.50756 7.18008 3.3588 7.18008C2.21005 7.18008 1.27881 7.99489 1.27881 9.00001C1.27881 10.0051 2.21005 10.8199 3.3588 10.8199Z" fill="white" stroke="white" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M13.4388 4.49525C14.5544 4.49525 15.4588 3.68044 15.4588 2.67532C15.4588 1.6702 14.5544 0.855408 13.4388 0.855408C12.3232 0.855408 11.4188 1.6702 11.4188 2.67532C11.4188 3.68044 12.3232 4.49525 13.4388 4.49525Z" fill="white" stroke="white" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M13.4388 17.1446C14.5544 17.1446 15.4588 16.3298 15.4588 15.3247C15.4588 14.3196 14.5544 13.5048 13.4388 13.5048C12.3232 13.5048 11.4188 14.3196 11.4188 15.3247C11.4188 16.3298 12.3232 17.1446 13.4388 17.1446Z" fill="white" stroke="white" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M5.59882 7.59453L11.1988 4.08081" stroke="white" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                        <path d="M11.1988 13.9192L5.59882 10.4055" stroke="white" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M3.3588 10.8199C4.50756 10.8199 5.4388 10.0051 5.4388 9.00001C5.4388 7.99489 4.50756 7.18008 3.3588 7.18008C2.21005 7.18008 1.27881 7.99489 1.27881 9.00001C1.27881 10.0051 2.21005 10.8199 3.3588 10.8199Z" fill="white" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M13.4388 4.49525C14.5544 4.49525 15.4588 3.68044 15.4588 2.67532C15.4588 1.6702 14.5544 0.855408 13.4388 0.855408C12.3232 0.855408 11.4188 1.6702 11.4188 2.67532C11.4188 3.68044 12.3232 4.49525 13.4388 4.49525Z" fill="white" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M13.4388 17.1446C14.5544 17.1446 15.4588 16.3298 15.4588 15.3247C15.4588 14.3196 14.5544 13.5048 13.4388 13.5048C12.3232 13.5048 11.4188 14.3196 11.4188 15.3247C11.4188 16.3298 12.3232 17.1446 13.4388 17.1446Z" fill="white" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M5.59882 7.59453L11.1988 4.08081" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M11.1988 13.9192L5.59882 10.4055" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>
                         
                         <a href="#">  Section  8</a></li>
