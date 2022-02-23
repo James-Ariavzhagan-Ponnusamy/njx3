@@ -7,7 +7,7 @@ function LeftNavbar(){
     return(
         <div className={styles.navcontainer}>
             <div className={styles.logo}>
-            <svg class = "name_icon" width="50" height="50" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <svg className = "name_icon" width="50" height="50" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <ellipse cx="14.91" cy="14.12" rx="14.91" ry="14.12" fill="#3772FF"/>
                         <path d="M19.4749 20H17.3749L12.6199 12.815V20H10.5199V9.515H12.6199L17.3749 16.715V9.515H19.4749V20Z" fill="#FEFEFE"/>
                        </svg>    Name
@@ -17,20 +17,20 @@ function LeftNavbar(){
                 <ul>
                     <li>
                     <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6288 1.30083H16.5186C17.7142 1.30083 18.6841 2.22725 18.6841 3.37013V6.1295C18.6841 7.27151 17.7142 8.19881 16.5186 8.19881H13.6288C12.4323 8.19881 11.4624 7.27151 11.4624 6.1295V3.37013C11.4624 2.22725 12.4323 1.30083 13.6288 1.30083Z" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.15811 1.30083H6.04695C7.24346 1.30083 8.21336 2.22725 8.21336 3.37013V6.1295C8.21336 7.27151 7.24346 8.19881 6.04695 8.19881H3.15811C1.9616 8.19881 0.991699 7.27151 0.991699 6.1295V3.37013C0.991699 2.22725 1.9616 1.30083 3.15811 1.30083Z" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.15817 11.1573H6.04701C7.24352 11.1573 8.21342 12.0838 8.21342 13.2275V15.986C8.21342 17.1289 7.24352 18.0553 6.04701 18.0553H3.15817C1.96166 18.0553 0.99176 17.1289 0.99176 15.986V13.2275C0.99176 12.0838 1.96166 11.1573 3.15817 11.1573Z" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6291 11.1573H16.5188C17.7144 11.1573 18.6843 12.0838 18.6843 13.2275V15.986C18.6843 17.1289 17.7144 18.0553 16.5188 18.0553H13.6291C12.4326 18.0553 11.4627 17.1289 11.4627 15.986V13.2275C11.4627 12.0838 12.4326 11.1573 13.6291 11.1573Z" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path fillRule="evenodd" clipRule="evenodd" d="M13.6288 1.30083H16.5186C17.7142 1.30083 18.6841 2.22725 18.6841 3.37013V6.1295C18.6841 7.27151 17.7142 8.19881 16.5186 8.19881H13.6288C12.4323 8.19881 11.4624 7.27151 11.4624 6.1295V3.37013C11.4624 2.22725 12.4323 1.30083 13.6288 1.30083Z" stroke="#808191" strokeWidth="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path fillRule="evenodd" clipRule="evenodd" d="M3.15811 1.30083H6.04695C7.24346 1.30083 8.21336 2.22725 8.21336 3.37013V6.1295C8.21336 7.27151 7.24346 8.19881 6.04695 8.19881H3.15811C1.9616 8.19881 0.991699 7.27151 0.991699 6.1295V3.37013C0.991699 2.22725 1.9616 1.30083 3.15811 1.30083Z" stroke="#808191" strokeWidth="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path fillRule="evenodd" clipRule="evenodd" d="M3.15817 11.1573H6.04701C7.24352 11.1573 8.21342 12.0838 8.21342 13.2275V15.986C8.21342 17.1289 7.24352 18.0553 6.04701 18.0553H3.15817C1.96166 18.0553 0.99176 17.1289 0.99176 15.986V13.2275C0.99176 12.0838 1.96166 11.1573 3.15817 11.1573Z" stroke="#808191" strokeWidth="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path fillRule="evenodd" clipRule="evenodd" d="M13.6291 11.1573H16.5188C17.7144 11.1573 18.6843 12.0838 18.6843 13.2275V15.986C18.6843 17.1289 17.7144 18.0553 16.5188 18.0553H13.6291C12.4326 18.0553 11.4627 17.1289 11.4627 15.986V13.2275C11.4627 12.0838 12.4326 11.1573 13.6291 11.1573Z" stroke="#808191" strokeWidth="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg> 
                         <a href="#">     Home</a>
                         
                     </li>
                     <li>
                     <svg width="22" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6.3634 8.81891V15.3152" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path d="M11.0294 5.70985V15.3146" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path d="M15.6202 12.2516V15.315" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6774 1.1138H6.30598C3.03932 1.1138 0.991699 3.30324 0.991699 6.4027V14.764C0.991699 17.8635 3.02979 20.0529 6.30598 20.0529H15.6774C18.9536 20.0529 20.9917 17.8635 20.9917 14.764V6.4027C20.9917 3.30324 18.9536 1.1138 15.6774 1.1138Z" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M6.3634 8.81891V15.3152" stroke="#808191" strokeWidth="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M11.0294 5.70985V15.3146" stroke="#808191" strokeWidth="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M15.6202 12.2516V15.315" stroke="#808191" strokeWidth="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path fillRule="evenodd" clipRule="evenodd" d="M15.6774 1.1138H6.30598C3.03932 1.1138 0.991699 3.30324 0.991699 6.4027V14.764C0.991699 17.8635 3.02979 20.0529 6.30598 20.0529H15.6774C18.9536 20.0529 20.9917 17.8635 20.9917 14.764V6.4027C20.9917 3.30324 18.9536 1.1138 15.6774 1.1138Z" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
                         <a href="#">     Section  1</a>
                         
